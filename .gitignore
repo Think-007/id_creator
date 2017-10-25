@@ -1,0 +1,19 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+*logs*
+
+#settings file
+/.settings/
+
+#target files
+/target/
+
+#svn files
+*.svn*
+
+
+/target/
+/target/
